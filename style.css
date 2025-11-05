@@ -5,6 +5,12 @@ header{
     color:rgb(255, 255, 255)
 }
 
+.parte1{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 40px;
+}
+
 
 body{
     background-color: rgb(255, 255, 255);
